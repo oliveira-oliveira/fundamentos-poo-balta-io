@@ -41,18 +41,16 @@ namespace Balta
 
             foreach (var career in careers)
             {
-                System.Console.WriteLine(career.Title);
+                Console.WriteLine(career.Title);
 
                 foreach (var item in career.Items.OrderBy(x => x.Order))
                 {
-                    System.Console.WriteLine($"{item.Order} - {item.Title}");
+                    Console.WriteLine($"{item.Order} - {item.Title}");
                     Console.WriteLine(item.Course?.Title);
                     Console.WriteLine(item.Course?.Level);
 
                     foreach (var notification in item.Notifications)
-                    {
-                        System.Console.WriteLine($"{notification.Property} - {notification.Message}");
-                    }
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
                 }
             }
 
@@ -60,8 +58,9 @@ namespace Balta
             var student = new Student();
 
             student.CreatSubscription(payPalSubscription);
+            var isActive = student.IsPremium ? "Ativa" : "Inativa";
 
-            System.Console.WriteLine(student.IsPremium);
+            Console.WriteLine($"A assinatura do aluno está ativa?: {isActive}");
 
         }
     }
