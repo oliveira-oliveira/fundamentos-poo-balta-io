@@ -61,6 +61,8 @@ namespace Balta
 
             student.CreatSubscription(payPalSubscription);
 
+            System.Console.WriteLine(student.IsPremium);
+
         }
     }
 }
