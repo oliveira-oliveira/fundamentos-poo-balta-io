@@ -6,11 +6,13 @@ using Balta.NotificationContext;
 
 namespace Balta.ContentContext
 {
-    public class Article : Content
+    public abstract class Base : Notifiable
     {
-        public Article(string title, string url) : base (title, url)
+        public Base()
         {
-            
+            Id = Guid.NewGuid();
         }
+
+        public Guid Id { get; set; }
     }
 }
