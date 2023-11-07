@@ -1,0 +1,15 @@
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\bin\Debug\net7.0\Balta.exe
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\bin\Debug\net7.0\Balta.deps.json
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\bin\Debug\net7.0\Balta.runtimeconfig.json
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\bin\Debug\net7.0\Balta.dll
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\bin\Debug\net7.0\Balta.pdb
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.csproj.AssemblyReference.cache
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.AssemblyInfoInputs.cache
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.AssemblyInfo.cs
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.dll
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\refint\Balta.dll
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.pdb
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\Balta.genruntimeconfig.cache
+C:\Users\diego.oliveira\Desktop\fundamentos-poo-balta-io\Balta\obj\Debug\net7.0\ref\Balta.dll
