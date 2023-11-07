@@ -7,10 +7,18 @@ namespace Balta
     {
         public static void Main(string[] args)
         {
-            var course = new Course();
-            course.Level = ContentContext.Enums.EContentLevel.Beginner;
-            
-            System.Console.WriteLine("Where I'm: "+ course.Level);
+            var articles = new List<Article>();
+            articles.Add(new Article("Artigo sobre POO", "orientacao-objetos"));
+            articles.Add(new Article("Artigo sobre C#", "csharp"));
+            articles.Add(new Article("Artigo sobre .Net", "dotnet"));
+
+            foreach (var item in articles)
+            {
+                System.Console.WriteLine(item.Id);
+                System.Console.WriteLine(item.Title);
+                System.Console.WriteLine(item.Url);
+            }
+
         }
     }
 }
