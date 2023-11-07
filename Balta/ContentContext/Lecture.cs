@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace Balta.ContentContext
 {
-    public class Career : Content
+     public class Lecture
     {
-        public int Courses { get; set; }
+        public int Order { get; set; }
+        public string Title { get; set; }
     }
 }
